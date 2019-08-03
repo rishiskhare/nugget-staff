@@ -359,35 +359,35 @@ header {
     background-color: #f4f4f4;
 }
 
-.steps-box {
+.purchase-box {
     margin-top: 30px;
 }
 
 
-.steps-box:first-child {
+.purchase-box:first-child {
     text-align: right;
     padding-right: 3%;
 }
 
-.steps-box:last-child {
+.purchase-box:last-child {
     text-align: left;
     padding-left: 3%;
     margin-top: 70px;
 }
 
-.app-screen {
+.camera {
     width: 80%;
 }
 
-.works-step {
+.purchase-step {
     margin-bottom: 50px;
 }
 
-.works-step:last-of-type {
+.purchase-step:last-of-type {
     margin-bottom: 80px;
 }
 
-.works-step div {
+.purchase-step div {
     color: #39b7cd;
     font-size: 150%;
     height: 54px;
@@ -399,17 +399,6 @@ header {
     margin-right: 25px;
     float: left;
     padding: 5px;
-}
-
-.btn-app:link,
-.btn-app:visited {
-    border: 0;
-}
-
-.btn-app img {
-    height: 50px;
-    width: auto;
-    margin-right: 10px;
 }
 
 

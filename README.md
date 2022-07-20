@@ -1,6 +1,6 @@
 # Nugget Staff Website
 
-During my sophomore year of high school, an editor-in-chief for the school's yearbook committee reached out to me to develop a static webpage for them. The site follows a scrollable one-page format, and is responsive to screen resizing.
+Static webpage for Cupertino High School yearbook committee (Tino Nugget Staff). 
 
 View the full webpage here: https://rishiskhare.github.io/nugget-staff/
 
